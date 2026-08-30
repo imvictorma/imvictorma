@@ -4,7 +4,7 @@ I build small, useful automation tools around **data**, **investing**, and **per
 
 ## Featured Project
 
-### [Market Pulse](https://github.com/maqianxiong/market-pulse) — Nasdaq-100 Market Temperature Dashboard
+### [Market Pulse](https://github.com/imvictorma/market-pulse) — Nasdaq-100 Market Temperature Dashboard
 
 A market-temperature dashboard for long-term investors.
 
@@ -13,7 +13,7 @@ A market-temperature dashboard for long-term investors.
 - Scheduled updates via GitHub Actions, deployed to GitHub Pages
 - WeChat notification support
 
-Live demo: https://maqianxiong.github.io/market-pulse/
+Live demo: https://imvictorma.github.io/market-pulse/
 
 ## Toolbox
 
